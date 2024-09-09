@@ -31,14 +31,23 @@ input:hover{
     font-size: 80%;
 }
 img{
-    height: 30%;
-    width: 50%;
+    height: 10%;
+    width: 30%;
     
 }
 .center{
-    margin-left: 25%;
+    margin-left: 35%;
 }
 a:link {
     color: yellowgreen;
     text-decoration: none
+}
+section{
+    border: 5px solid purple;
+    border-radius: 20px;
+    margin: 5px;
+    float: left;
+    padding: 5px;
+    background-color: black;
+    color: aqua;
 }

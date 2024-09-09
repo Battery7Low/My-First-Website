@@ -1,0 +1,44 @@
+h1{
+    color: aqua;
+    background-color: black;
+    font-style: normal;
+    text-align: center;
+    height: 50%;
+    width: 100%;
+    font-weight: bold;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;        
+}
+.bd{
+    color: blueviolet;
+}
+div{
+    text-align: center;
+}
+input:hover{
+    color: aqua;
+    font-size: 100%;
+ 
+}
+.sick:hover{
+    color: chartreuse;
+    background-color: black;
+    font-size: 80%;
+}
+img{
+    height: 30%;
+    width: 50%;
+    
+}
+.center{
+    margin-left: 25%;
+}
+a:link {
+    color: yellowgreen;
+    text-decoration: none
+}

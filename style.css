@@ -1,6 +1,5 @@
 h1{
-    color: aqua;
-    background-color: black;
+    color: brown;
     font-style: normal;
     text-align: center;
     height: 50%;
@@ -28,7 +27,7 @@ input:hover{
 .sick:hover{
     color: chartreuse;
     background-color: black;
-    font-size: 80%;
+    font-size: 120%;
 }
 img{
     height: 10%;
@@ -44,8 +43,7 @@ a:link {
 }
 section{
     border: 5px solid purple;
-    border-radius: 20px;
-    margin: 5px;
+    margin: 25px;
     float: left;
     padding: 5px;
     background-color: black;

@@ -49,3 +49,7 @@ section{
     background-color: black;
     color: aqua;
 }
+.hop:hover{
+    color: chartreuse;
+    font-size: 120%;
+}
